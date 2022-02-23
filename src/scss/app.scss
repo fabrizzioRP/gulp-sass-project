@@ -1,0 +1,10 @@
+@use 'base/variables' as v;
+
+h1{
+    text-align: center;
+    color: v.$red;
+}
+
+body{
+    background-color: v.$black;
+}
