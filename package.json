@@ -8,12 +8,22 @@
     "sass": "sass --watch src/scss:build/css"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fabrizzio Rosales",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.1.0",
     "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-imagemin": "^7.1.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.49.8"
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser-js": "^5.2.2",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.7",
+    "sass": "^1.49.8",
+    "terser": "^5.12.0"
   }
 }
